@@ -33,8 +33,6 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 While the general requirements were not difficult to implement I did struggle incorporating the bonus section. However, I will be going back to expand on my app. 
 
 ## License
